@@ -13,6 +13,8 @@
 - Passionate about Software Engineering, sparked by an interest in mathematics
 - Transitioning from a background in Carpentry trade to pursue a career in Software Engineering
 
+--- 
+
 ### My favorite tech
 
 #### Dev Enviroment
@@ -49,3 +51,5 @@
 #### To Explore Next
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
