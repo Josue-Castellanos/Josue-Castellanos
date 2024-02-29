@@ -10,7 +10,7 @@
 
 ### Skills and Interests
 - Currently expanding expertise in Artificial Intelligence, focusing on Convolutional Neural Networks
-- Passionate about Software Engineering, sparked by an interest in mathematics
+- Passionate about Software Engineering, sparked by an interest in Mathematics
 - Transitioning from a background in Carpentry trade to pursue a career in Software Engineering
 
 --- 
