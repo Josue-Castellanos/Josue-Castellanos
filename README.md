@@ -53,4 +53,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-[![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-castellanos&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Josue Castellanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-castellanos&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
