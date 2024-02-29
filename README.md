@@ -4,9 +4,12 @@
 <!--
 **Josue-Castellanos/Josue-Castellanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Education
+### Education and Awards
 
 - Senior, B.S. Computer Science, California State University, East Bay
+- Dean's List, Fall 2021 - Fall 2024 Semesters
+   - Achieved a grade point average of 3.5 or higher each semester.
+   - Recognition of academic excellence and commitment to studies.
 
 ### Skills and Interests
 - Currently expanding expertise in Artificial Intelligence, focusing on Convolutional Neural Networks
