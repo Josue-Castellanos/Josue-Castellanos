@@ -1,6 +1,8 @@
 ## Hey there, I'm Josue 👋
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-heindel/)](https://www.linkedin.com/in/castellanos-josue/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&link=https://your-portfolio-url.com/)](https://josuecastellanos.com/)
+
 <!--
 **Josue-Castellanos/Josue-Castellanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
